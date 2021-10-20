@@ -1,6 +1,9 @@
 import java.util.Scanner;
 public class Calculator {
     public static void main(String[] args) {
+        // This is my comment for lab 6
+        // It's is 20 October 2021
+        //Having so much fun in class
         Scanner scan = new Scanner(System.in);
 
         // Receive first number
